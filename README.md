@@ -13,7 +13,7 @@ Ministry of Ayush Government of India
 ## Idea:
    ### Project Title: 
       VriddhiVana: The Virtual Herbal Garden of India    
-The idea behind VriddhiVana is to create a Virtual Herbal Garden that bridges the accessibility gap in traditional plant-based healthcare education. By combining 3D plant exploration, multimedia content, and interactive learning tools, the platform aims to make the knowledge of AYUSH medicinal plants available to all—anytime, anywhere. This digital garden empowers users to explore plant properties, cultivation techniques, and medicinal uses in Ayurveda, Unani, Siddha, and Homeopathy, through a visually rich, theme-based, and user-friendly web application.
+The idea behind VriddhiVana is to create a Virtual Herbal Garden that bridges the accessibility gap in traditional plant-based healthcare education. By combining 3D plant exploration, multimedia content, and interactive learning tools, the platform aims to make the knowledge of AYUSH medicinal plants available to all anytime, anywhere. This digital garden empowers users to explore plant properties, cultivation techniques, and medicinal uses in Ayurveda, Unani, Siddha, and Homeopathy, through a visually rich, theme-based, and user-friendly web application.
 
 ## Proposed Solution / Architecture Diagram:
 ![CC hack](https://github.com/user-attachments/assets/3e080a7f-865d-4b16-9b58-cf4f6e0c78b9)
@@ -70,6 +70,7 @@ Render / Heroku / Railway – Hosting for backend services
 Git & GitHub – Version control and collaboration
 
 ## Evaluation Summary:
-VriddhiVana offers an innovative, accessible, and engaging digital platform that bridges traditional herbal knowledge with modern technology. With immersive 3D models, multilingual support, health-themed tours, and gamified learning, it ensures wide usability and educational value, making AYUSH medicinal plant knowledge available to learners, practitioners, and the general public.
+VriddhiVana offers an innovative, accessible, and engaging digital platform that bridges traditional herbal knowledge with modern technology. With immersive 3D models, 
+multilingual support, health-themed tours, and gamified learning, it ensures wide usability and educational value, making AYUSH medicinal plant knowledge available to learners, practitioners, and the general public.
 
 
