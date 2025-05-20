@@ -23,11 +23,17 @@ The idea behind VriddhiVana is to create a Virtual Herbal Garden that bridges th
 
 ## Technology Stack:
  Frontend: ReactJS, TailwindCSS, Three.js 
+ 
  Backend: Node.js, Express.js
+ 
  Database: MongoDB
+ 
  3D Assets: Blender for Model Creation
+ 
  Storage: AWS S3
+ 
  Hosting:  Vercel, Render
+ 
  Security: JWT, HTTPS
 
 ## Dependencies:
